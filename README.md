@@ -1,7 +1,7 @@
 # creative-ai-deepdream-by-google
 Creative AI is an emerging field in artificial intelligence that focuses on generating art, music, stories, and other creative works using machine learning models.
 
-Unlike traditional AI applications in healthcare, finance, or marketing, this course dives into AI's ability to express creativity—raising questions like:
+Unlike traditional AI applications in healthcare, finance, or marketing, this course dives into AI's ability to express creativity raising questions like:
 Can AI truly be creative?
 Can AI generate art that rivals human imagination?
 
@@ -19,7 +19,7 @@ just like cloud-gazing: you see a horse or a face in the clouds based on what yo
 Deep Dream does the same, it imagines based on its training.
 
 Result:
-Trippy, colorful, distorted images—often filled with animal eyes, faces, or buildings where they don’t belong.
+Trippy, colorful, distorted images often filled with animal eyes, faces, or buildings where they don’t belong.
 It gives us insight into how neural networks "understand" the world.
 
 largest community of artists exploring ai: https://aiartists.org/
